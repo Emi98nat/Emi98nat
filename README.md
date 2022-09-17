@@ -1,5 +1,10 @@
-### Hi there friends👋
+### <center> Hi there friends👋 </center>
  🌱 I’m currently learning fullstack Web developement
+ 
+![active coder](https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47cmv4l0lafz6sgba07wswl1ewssajz9xmtxcgam0z&rid=200w.webp&ct=g)
+
+
+
 <!--
 **Emi98nat/Emi98nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
