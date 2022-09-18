@@ -1,9 +1,16 @@
-### <center> Hi there friends👋 </center>
- 🌱 I’m currently learning fullstack Web developement
+<h3 align="center"> Hi there friends👋 </h3>
+<p>
+ 🌱 <b>I’m currently learning fullstack Web developement</b> <br/>
+ <p>
  
-![active coder](https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47cmv4l0lafz6sgba07wswl1ewssajz9xmtxcgam0z&rid=200w.webp&ct=g)
-
-
+ <p>
+<img width="30%" src="https://user-images.githubusercontent.com/84425318/190880587-c5aea438-efab-4213-b56f-5961a6a723ee.gif" alt="developer"
+"/>
+</p>
+<p align ="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Emi98nat&show_icons=true&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emi98nat&theme=tokyonight"/>
+</p>
 
 <!--
 **Emi98nat/Emi98nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
