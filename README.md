@@ -12,6 +12,7 @@
 <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Emi98nat&theme=tokyonight"/>
 </p>
 
+<!--START_SECTION:activity-->
 <!--
 **Emi98nat/Emi98nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
