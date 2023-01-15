@@ -13,6 +13,9 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#31](https://github.com/Emi98nat/restaurant_app/pull/31) in [Emi98nat/restaurant_app](https://github.com/Emi98nat/restaurant_app)
+2. 💪 Opened PR [#31](https://github.com/Emi98nat/restaurant_app/pull/31) in [Emi98nat/restaurant_app](https://github.com/Emi98nat/restaurant_app)
+<!--END_SECTION:activity-->
 <!--
 **Emi98nat/Emi98nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
