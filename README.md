@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there friends👋 </h3>
-<p align="center"><img width="300px" src="https://user-images.githubusercontent.com/84425318/212542681-281209f9-a408-4c8b-9d73-0997cdf669a4.jpg" alt="Emmanuel Natachukwu Ezulumike"/></p>
+<p align="center"><img width="500px" src="https://user-images.githubusercontent.com/84425318/212542681-281209f9-a408-4c8b-9d73-0997cdf669a4.jpg" alt="Emmanuel Natachukwu Ezulumike"/></p>
 <p>
  🌱 <b>I’m currently learning fullstack Web developement</b> <br/>
  <p>
